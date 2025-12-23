@@ -1,0 +1,18 @@
+{
+    "userNameInput": {
+      "web": "[data-test='username']",
+      "mobile": { "android": "", "ios": "" }
+    },
+    "passwordInput": {
+      "web": "[data-test='password']",
+      "mobile": { "android": "", "ios": "" }
+    },
+    "loginButton": {
+      "web": "[data-test='login-button']",
+      "mobile": { "android": "", "ios": "" }
+    },
+    "errorLabel": {
+      "web": "[data-test='error']",
+      "mobile": { "android": "", "ios": "" }
+    }
+  }  

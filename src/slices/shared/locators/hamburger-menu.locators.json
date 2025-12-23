@@ -1,0 +1,10 @@
+{
+    "burgerMenuButton": {
+      "web": "#react-burger-menu-btn",
+      "mobile": { "android": "", "ios": "" }
+    },
+    "menuItemList": {
+      "web": ".bm-item.menu-item",
+      "mobile": { "android": "", "ios": "" }
+    }
+  }  
